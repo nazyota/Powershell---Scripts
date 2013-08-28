@@ -1,0 +1,1 @@
+﻿get-QADGroup avalenzuela | select-object name > c:\scripts\groups.csv

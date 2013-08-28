@@ -1,0 +1,1 @@
+﻿Get-QADMemberOf graymond | Select-Object name | out-file c:\scripts\MemberOf2.csv -force utf8

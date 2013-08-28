@@ -1,0 +1,1 @@
+﻿Get-ADComputer -Filter * -Property * | Select-Object Name | Export-CSV AllWindows2.csv -NoTypeInformation -Encoding UTF8
